@@ -14,7 +14,7 @@ The oldest systems of fortifications around the town were likely wooden palisade
 
 This complex structure, amongst the largest and most complete in Europe, protected the freedom and safety of a "civilised" and "sophisticated" republic that flourished in peace and prosperity for some five centuries. The walls were reinforced by three circular and 14 quadrangular towers, five bastions (bulwarks), two angular fortifications and the large St. John's Fortress. Land walls were additionally reinforced by one larger bastion and nine smaller semicircular ones, like the casemate Fort Bokar, the oldest preserved fort of that kind in Europe. The moat that ran around the outside section of the city walls, which were armed by more than 120 cannons, provided superb city defense capabilities.
 
-![](/blog/images/Croatia/Dubrovnik/Walls_of_Dubrovnik/thumbnail.svg)
+![](/blog/images/Croatia/Dubrovnik/Walls_of_Dubrovnik/sample_image.svg)
 
 
 
